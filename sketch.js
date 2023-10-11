@@ -305,7 +305,7 @@ function about() {
     swal({
         title: "HOW TO PLAY THE GAME !!!",
         text: "Complete the tasks as instructed.. \n in various hint messages",
-        imageUrl: "maria-belova-.jpg",
+        imageUrl: "a1.png",
         imageSize: "200x200",
         confirmButtonText: "LET THE QUEST BEGIN!!",
         confirmButtonColor: "green"
@@ -323,7 +323,7 @@ function enterlevel1() {
     swal({
         title: "Find the Door to Wonders !!!",
         text: "For the Door to appear , collect 5 magical Items!!",
-        imageUrl: "maria-belova-.jpg",
+        imageUrl: "buttons1-main/play.png",
         imageSize: "200x200",
         confirmButtonText: "ADVENTURE BEGINS!!",
         confirmButtonColor: "green"
@@ -350,7 +350,7 @@ function level1complete() {
     swal({
         title: "Here is the DOOR To WONDERS !!!",
         text: "Here is the Door To TREASURE!!",
-        imageUrl: "star.gif",
+        imageUrl: "unlock.gif",
         imageSize: "200x200",
         confirmButtonText: "DOOR TO TREASURE!!",
         confirmButtonColor: "green"
